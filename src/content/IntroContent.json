@@ -1,0 +1,13 @@
+{
+  "title": "Welcome to Buniyaad Academy",
+  "text": "Empowering learners of all ages! At Buniyaad Academy, we build a strong foundation for every student, helping them master languages, mathematics, personality development, communication skills, spoken language, stage courage, and more. No matter your starting point, we guide you towards success with personalized learning and expert mentorship.",
+  "button": [
+    {
+      "title": "Get Started"
+    },
+    {
+      "title": "Discover More",
+      "color": "#fff"
+    }
+  ]
+}

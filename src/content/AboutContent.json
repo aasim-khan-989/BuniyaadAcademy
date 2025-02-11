@@ -1,0 +1,21 @@
+{
+  "title": "Empowering Minds at Buniyaad Academy",
+  "text": "We provide personalized training tailored for learners of all age groups. With a wide variety of courses, students can build foundational knowledge, improve communication, and unlock their true potential.",
+  "section": [
+    {
+      "title": "Comprehensive Courses",
+      "content": "Choose from a variety of subjects including English (Foundation & Spoken), Mathematics, Urdu, and Marathi. Learners have complete freedom to select the subjects of their choice.",
+      "icon": "education.svg"
+    },
+    {
+      "title": "Holistic Skill Development",
+      "content": "Our training includes essential life skills such as Communication, Personality Development, Stage Courage, Public Speaking, Career Guidance, and Confidence Building.",
+      "icon": "skills.svg"
+    },
+    {
+      "title": "Personalized Learning",
+      "content": "We understand that every learner is unique. That's why we offer personalized attention and guidance for individual growth at reasonable fees.",
+      "icon": "personalized.svg"
+    }
+  ]
+}
