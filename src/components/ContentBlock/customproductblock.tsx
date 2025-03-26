@@ -21,8 +21,19 @@ const CustomProductBlock: React.FC<CustomProductBlockProps> = ({ id }) => {
               <p>Have questions? Reach out to us!</p>
 
               <p>
-                📞 <a href="tel:+919130510989" style={{ color: "#007bff", textDecoration: "none" }}>+91 91305 10989</a>
+                📞 <strong>TR Qadri Sir:</strong> 
+                <a href="tel:+919960257440" style={{ color: "#007bff", textDecoration: "none", marginLeft: "5px" }}>
+                  +91 99602 57440
+                </a>
               </p>
+
+              <p>
+                📞 <strong>Er Mohammad Aasim:</strong> 
+                <a href="tel:+919130510989" style={{ color: "#007bff", textDecoration: "none", marginLeft: "5px" }}>
+                  +91 91305 10989
+                </a>
+              </p>
+
               <p>
                 📧 <a href="mailto:buniyaadacademythefoundation@gmail.com" style={{ color: "#007bff", textDecoration: "none" }}>
                   buniyaadacademythefoundation@gmail.com
