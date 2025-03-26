@@ -20,22 +20,31 @@ const CustomProductBlock: React.FC<CustomProductBlockProps> = ({ id }) => {
               <h6>Contact Us</h6>
               <p>Have questions? Reach out to us!</p>
 
-              <p>
-                📞 <strong>TR Qadri Sir:</strong> 
-                <a href="tel:+919960257440" style={{ color: "#007bff", textDecoration: "none", marginLeft: "5px" }}>
+              <div style={{ marginBottom: "10px" }}>
+                📞 <strong>TR Qadri Sir:</strong> <br />
+                <a 
+                  href="tel:+919960257440" 
+                  style={{ color: "#007bff", textDecoration: "none", display: "block", marginTop: "5px" }}
+                >
                   +91 99602 57440
                 </a>
-              </p>
+              </div>
 
-              <p>
-                📞 <strong>Er Mohammad Aasim:</strong> 
-                <a href="tel:+919130510989" style={{ color: "#007bff", textDecoration: "none", marginLeft: "5px" }}>
+              <div style={{ marginBottom: "10px" }}>
+                📞 <strong>Er Mohammad Aasim:</strong> <br />
+                <a 
+                  href="tel:+919130510989" 
+                  style={{ color: "#007bff", textDecoration: "none", display: "block", marginTop: "5px" }}
+                >
                   +91 91305 10989
                 </a>
-              </p>
+              </div>
 
               <p>
-                📧 <a href="mailto:buniyaadacademythefoundation@gmail.com" style={{ color: "#007bff", textDecoration: "none" }}>
+                📧 <a 
+                  href="mailto:buniyaadacademythefoundation@gmail.com" 
+                  style={{ color: "#007bff", textDecoration: "none" }}
+                >
                   buniyaadacademythefoundation@gmail.com
                 </a>
               </p>
